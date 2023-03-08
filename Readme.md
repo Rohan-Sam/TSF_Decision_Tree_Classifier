@@ -6,12 +6,10 @@ In this repository I used Decision Tree Classifier algorithm to identify the cla
 
 ## Code of Iris Plant Classifier
 
-To understand this repository follow the below steps:
+To understand this repository :
 
-1) First Clone, Fork or Download this repository
+1) The dataset used is (https://bit.ly/3kXTdox).
 
-2) The dataset used is (https://bit.ly/3kXTdox).
+2) Run Task6.ipynb
 
-3) Now, you can run Task6.ipynb
-
-4) All, the uses and instructions are written in code file itself.
+3) All, the uses and instructions are written in code file itself.
